@@ -1,0 +1,52 @@
+WEBVTT
+
+00:00:00.070 --> 00:00:01.788
+To find stock footage for you,
+
+00:00:01.788 --> 00:00:03.982
+Claude needs a Pexels API key.
+
+00:00:03.982 --> 00:00:06.258
+It's free, and it takes about a minute.
+
+00:00:06.258 --> 00:00:07.558
+Sign in to Pexels,
+
+00:00:07.558 --> 00:00:09.961
+then open the Pexels API page.
+
+00:00:09.961 --> 00:00:11.889
+Click Your API Key.
+
+00:00:11.889 --> 00:00:13.886
+Your key is in this box.
+
+00:00:13.886 --> 00:00:15.139
+Click the copy icon next
+
+00:00:15.139 --> 00:00:18.045
+to it, so you get every character.
+
+00:00:18.158 --> 00:00:20.527
+Now open your .env file.
+
+00:00:20.527 --> 00:00:21.780
+Paste the key right after
+
+00:00:21.780 --> 00:00:22.477
+the equals sign,
+
+00:00:22.477 --> 00:00:23.812
+and save.
+
+00:00:23.812 --> 00:00:26.018
+Never paste a key into a chat.
+
+00:00:26.018 --> 00:00:28.236
+Then ask Claude to check your keys.
+
+00:00:28.236 --> 00:00:29.664
+When Pexels says OK,
+
+00:00:29.664 --> 00:00:31.629
+you're ready to find footage.

@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.058 --> 00:00:01.196
+Here's what happens when you ask
+
+00:00:01.196 --> 00:00:02.508
+Claude for a video.
+
+00:00:02.508 --> 00:00:03.831
+First, you describe it,
+
+00:00:03.831 --> 00:00:04.981
+in plain words.
+
+00:00:04.981 --> 00:00:07.210
+Claude turns that into a plan:
+
+00:00:07.210 --> 00:00:09.509
+what's said, and what's on screen.
+
+00:00:09.509 --> 00:00:11.668
+Then it gathers the pieces.
+
+00:00:11.668 --> 00:00:13.282
+A voice from ElevenLabs.
+
+00:00:13.282 --> 00:00:14.698
+Footage from Pexels.
+
+00:00:14.698 --> 00:00:16.347
+Art from Gemini.
+
+00:00:16.347 --> 00:00:17.589
+Every frame is drawn like
+
+00:00:17.589 --> 00:00:18.460
+a web page,
+
+00:00:18.460 --> 00:00:19.888
+one at a time.
+
+00:00:19.888 --> 00:00:21.339
+And before anything renders,
+
+00:00:21.339 --> 00:00:22.686
+Claude shows you a preview,
+
+00:00:22.686 --> 00:00:23.824
+so you can say:
+
+00:00:23.824 --> 00:00:25.647
+make that title bigger.
+
+00:00:25.647 --> 00:00:28.143
+Then ffmpeg stitches the frames
+
+00:00:28.143 --> 00:00:30.221
+and the sound into a video.
+
+00:00:30.221 --> 00:00:31.568
+Your notes go in.
+
+00:00:31.568 --> 00:00:33.696
+A finished video comes out.
